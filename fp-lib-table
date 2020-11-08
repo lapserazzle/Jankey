@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name kbd)(type KiCad)(uri "D:/Users/lapserazzle/Documents/KiCad Library/kicad-footprints/kbd.pretty")(options "")(descr ""))
+  (lib (name promicro)(type KiCad)(uri "D:/Users/lapserazzle/Documents/KiCad Library/promicro.pretty")(options "")(descr ""))
+  (lib (name Jankey)(type KiCad)(uri D:/Users/lapserazzle/Desktop/Janko)(options "")(descr ""))
+)
